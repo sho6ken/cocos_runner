@@ -1,0 +1,3 @@
+[submodule "assets/scripts/kit"]
+	path = assets/scripts/kit
+	url = https://github.com/sho6ken/cocos_dev_kit
